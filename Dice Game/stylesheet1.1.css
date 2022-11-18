@@ -1,0 +1,44 @@
+.container
+{
+	text-align: center;
+	margin: auto;
+	width: 70%;
+}
+
+.dice
+{
+	text-align: center;
+	display: inline-block;
+}
+
+body
+{
+	background-color: #D6E4E5;
+}
+
+h1
+{
+	font-size: 4rem;
+	font-family: 'canbria',cursive;
+	color: black;
+}
+
+p
+{
+	font-size: 2rem;
+	font-family: 'canbria',cursive;
+	color: black;
+}
+img
+{
+	width: 80%;
+}
+
+footer
+{
+	color: black;
+	text-align: center;
+	font-family: 'canbria',cursive;
+	margin-top: auto;
+}
+
